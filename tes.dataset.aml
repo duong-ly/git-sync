@@ -1,6 +1,10 @@
 Dataset tes {
   label: 'Tes'
+<<<<<<< HEAD
   description: 'aaaq'
+=======
+  description: 'aaqqqq'
+>>>>>>> origin/master
   data_source_name: 'postgres'
   models: [
     public_tenants
