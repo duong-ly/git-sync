@@ -1,6 +1,6 @@
 Dataset tes {
   label: 'Tes'
-  description: 'aaaaaaaaa'
+  description: 'aaaaaaa'
   data_source_name: 'postgres'
   models: [
     public_tenants
