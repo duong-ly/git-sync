@@ -1,0 +1,11 @@
+Dataset abcqqq {
+  label: 'Abcqqq'
+  description: ''
+  data_source_name: 'postgres'
+  models: [
+    public_tenants
+  ]
+  relationships: [
+  ]
+  owner: 'test_external@holistics.io'
+}
