@@ -16,7 +16,7 @@ Model public_tenants {
     definition: @sql {{ #SOURCE.id }};;
   }
   dimension name {
-    label: 'Name'
+    label: 'Nameeee'
     type: 'text'
     hidden: false
     definition: @sql {{ #SOURCE.name }};;
