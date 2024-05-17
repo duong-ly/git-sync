@@ -1,5 +1,5 @@
 Dashboard abc {
-  title: 'A.  bc'
+  title: 'Dashboard'
   description: ''''''
 
   block text_block: TextBlock {
