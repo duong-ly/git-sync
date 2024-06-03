@@ -49,7 +49,7 @@ Choose from three editing modes: **Visual Editor** for beginner-friendly customi
     label: 'View 1'
     height: 800
     block text_block {
-      position: pos(40, 20, 1120, 420)
+      position: pos(30, 20, 1120, 420)
     }
     block filter_block {
       position: pos(40, 520, 400, 80)
