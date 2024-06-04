@@ -2,6 +2,7 @@ Model public_tenants {
   type: 'table'
   label: 'Tenants'
   description: 'This is from remote neeeeeee'
+>>>>>>> origin/master
   data_source_name: 'postgres'
   dimension uname {
     label: 'Uname'
