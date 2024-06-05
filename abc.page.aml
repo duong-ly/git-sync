@@ -3,7 +3,7 @@ Dashboard abc {
   description: ''''''
 
   block text_block: TextBlock {
-    content: @md   #  Welcome to Canvas Dashboarddddd 🚀
+    content: @md   #  Welcome to Canvas Dashboardd 🚀
 
 <div class="flex space-x-6">
   <div class="flex-1">
