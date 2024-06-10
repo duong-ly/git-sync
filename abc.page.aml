@@ -49,11 +49,7 @@ Choose from three editing modes: **Visual Editor** for beginner-friendly customi
     label: 'View 1'
     height: 800
     block text_block {
-<<<<<<< HEAD
       position: pos(30, 10, 1120, 420)
-=======
-      position: pos(30, 30, 1120, 420)
->>>>>>> origin/master
     }
     block filter_block {
       position: pos(40, 520, 400, 80)
