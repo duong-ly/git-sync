@@ -1,9 +1,5 @@
 Dataset test {
-<<<<<<< HEAD
-  label: 'Testtttttttttsssssss'
-=======
   label: 'Testtttttttttssss'
->>>>>>> origin/master
   description: 'abc'
   data_source_name: 'postgres'
   models: [
