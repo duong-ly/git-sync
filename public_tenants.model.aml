@@ -1,7 +1,7 @@
 Model public_tenants {
   type: 'table'
   label: 'Tenantsssess'
-  description: 'This is fromqwe reeeeqweqweqwe'
+  description: 'This is fromqweeeee'
   data_source_name: 'postgres'
   dimension uname {
     label: 'Uname'
