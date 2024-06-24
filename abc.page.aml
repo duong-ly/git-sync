@@ -1,5 +1,5 @@
 Dashboard abc {
-  title: 'Dashboard this is from abccxxxxxxxx'
+  title: 'Dashboard this is from abccxxxxxxxxx'
   description: ''''''
 
   block text_block: TextBlock {
