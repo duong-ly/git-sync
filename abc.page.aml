@@ -4,6 +4,32 @@ Dashboard abc {
   view: CanvasLayout {
     label: 'View 1'
     height: 800
+    block v1 {
+      position: pos(40, 30, 400, 300)
+    }
+  }
+  block v1: VizBlock {
+    label: 'uname with created at'
+    viz: DataTable {
+      dataset: test
+      fields: [
+        VizFieldFull {
+          ref: ref('public_tenants', 'uname')
+          format {
+            type: 'text'
+          }
+        },
+        VizFieldFull {
+          ref: ref('public_tenants', 'created_at')
+          format {
+            type: 'datetime'
+          }
+        }
+      ]
+      settings {
+        show_row_number: true
+      }
+    }
   }
 
 }
