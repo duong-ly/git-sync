@@ -1,5 +1,5 @@
 Dataset test {
-  label: 'Testtsssstssssssssssssss'
+  label: 'Testtsssstsssssssssssssssss'
   description: 'abcc'
   data_source_name: 'postgres'
   models: [
