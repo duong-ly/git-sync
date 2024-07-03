@@ -1,5 +1,5 @@
 Dashboard abc {
-  title: 'Dashboard this is from abccxxxxxxxxxxxxx'
+  title: 'Dashboard this is from abccxxxxxxxxxxx'
   description: ''''''
   view: CanvasLayout {
     label: 'View 1'
