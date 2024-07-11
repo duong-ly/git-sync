@@ -5,7 +5,6 @@ Dataset test {
   models: [
     public_tenants
   ]
-  relationships: [
-  ]
+  relationships: []
   owner: 'test_external@holistics.io'
 }
