@@ -5,6 +5,8 @@ Dataset test {
   models: [
     public_tenants
   ]
-  relationships: []
+  relationships: [
+    relationship(public_tenants.settings > public_tenants.updated_at, true)
+  ]
   owner: 'test_external@holistics.io'
 }
