@@ -6,7 +6,7 @@ Dataset test {
     public_tenants
   ]
   relationships: [
-    relationship(public_tenants.settings > public_tenants.updated_at, true)
+    relationship(public_tenants.duplicated > public_tenants.name, true)
   ]
   owner: 'test_external@holistics.io'
 }
