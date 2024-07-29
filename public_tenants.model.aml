@@ -1,6 +1,6 @@
 Model public_tenants {
   type: 'table'
-  label: 'aaeaaaqwqweqweqweqweqqqqeeeeeeqw'
+  label: 'abc'
   description: 'This is fromqweeeee'
   data_source_name: 'postgres'
   dimension uname {

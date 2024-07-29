@@ -1,10 +1,11 @@
 Dataset test {
-  label: 'Testtsssstssssssssss'
+  label: 'asqweqwe'
   description: 'abcc'
   data_source_name: 'postgres'
   models: [
     public_tenants
   ]
-  relationships: []
+  relationships: [
+  ]
   owner: 'test_external@holistics.io'
 }
