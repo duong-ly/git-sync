@@ -1,7 +1,7 @@
 Model public_annotations {
   type: 'table'
   label: 'Annotationsssss'
-  description: ''
+  description: 'qweqweqwe'
   data_source_name: 'postgres'
   dimension deleted_at {
     label: 'Deleted At'
