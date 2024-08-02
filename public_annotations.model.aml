@@ -1,6 +1,6 @@
 Model public_annotations {
   type: 'table'
-  label: 'TEsssss'
+  label: 'TEssssstttt'
   description: ''
   data_source_name: 'postgres'
   dimension deleted_at {
