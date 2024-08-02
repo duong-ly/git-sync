@@ -1,6 +1,6 @@
 Dataset test {
-  label: 'asqweqwe'
-  description: 'abcceeee'
+  label: 'hihi'
+  description: 'abccc'
   data_source_name: 'postgres'
   models: [
     public_tenants
