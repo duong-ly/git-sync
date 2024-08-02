@@ -1,11 +1,6 @@
 Dataset test {
-<<<<<<< HEAD
   label: 'asqweqweeeeea'
   description: 'abcc'
-=======
-  label: 'asqweqweeee'
-  description: 'abccc'
->>>>>>> origin/master
   data_source_name: 'postgres'
   models: [
     public_tenants
