@@ -1,12 +1,7 @@
 Model public_annotations {
   type: 'table'
-<<<<<<< HEAD
-  label: 'TEssssstttteeee'
+  label: 'tesst'
   description: ''
-=======
-  label: 'Annotationssss123s'
-  description: '123'
->>>>>>> origin/master
   data_source_name: 'postgres'
   dimension deleted_at {
     label: 'Deleted At'
