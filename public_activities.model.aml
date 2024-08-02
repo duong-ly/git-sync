@@ -1,6 +1,10 @@
 Model public_activities {
   type: 'table'
+<<<<<<< HEAD
   label: 'hihi'
+=======
+  label: 'abc'
+>>>>>>> origin/master
   description: 'qweqwe'
   data_source_name: 'postgres'
   dimension trackable_type {
