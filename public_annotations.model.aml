@@ -4,6 +4,7 @@ Model public_annotations {
   description: 'huy qwewqeqwe huyeee ae '
   data_source_name: 'postgres'
   dimension deleted_at {
+    123123123
     label: 'Deleted At'
     type: 'datetime'
     hidden: false
