@@ -33,15 +33,16 @@ Dashboard untitled_3 {
       dataset: testtt
       fields: [
         VizFieldFull {
-          ref: ref('public_annotations', 'title')
+          ref: ref('public_tenants', 'uname')
           format {
             type: 'text'
           }
         },
         VizFieldFull {
-          ref: ref('public_annotations', 'notes')
+          ref: ref('public_tenants', 'id')
           format {
-            type: 'text'
+            type: 'number'
+            pattern: 'inherited'
           }
         }
       ]
