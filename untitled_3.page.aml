@@ -27,6 +27,29 @@ Dashboard untitled_3 {
       </div>
     </div>;;
   }
+  block v1: VizBlock {
+    label: '123'
+    viz: DataTable {
+      dataset: testtt
+      fields: [
+        VizFieldFull {
+          ref: ref('public_annotations', 'title')
+          format {
+            type: 'text'
+          }
+        },
+        VizFieldFull {
+          ref: ref('public_annotations', 'notes')
+          format {
+            type: 'text'
+          }
+        }
+      ]
+      settings {
+        show_row_number: true
+      }
+    }
+  }
 
   view: CanvasLayout {
     label: 'View 1'
