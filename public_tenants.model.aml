@@ -1,4 +1,5 @@
 Model public_tenants {
+  // abc
   type: 'table'
   label: 'nope'
   description: 'huy huyeeee'
@@ -9,6 +10,8 @@ Model public_tenants {
     hidden: false
     definition: @sql {{ #SOURCE.uname }};;
   }
+  // this is a comment
+  // that has new color
   dimension id {
     label: 'Id'
     type: 'number'
