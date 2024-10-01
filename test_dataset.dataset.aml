@@ -1,0 +1,12 @@
+Dataset test_dataset {
+  label: 'Test Dataset'
+  description: ''
+  data_source_name: 'postgres'
+  models: [
+    public_tenants,
+    public_activities
+  ]
+  relationships: [
+  ]
+  owner: 'test_external@holistics.io'
+}

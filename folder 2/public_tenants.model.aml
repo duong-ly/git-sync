@@ -1,7 +1,7 @@
 Model public_tenants {
   type: 'table'
-  label: 'abc'
-  description: 'This is fromqweeeee'
+  label: 'Tenants'
+  description: ''
   data_source_name: 'postgres'
   dimension uname {
     label: 'Uname'
@@ -16,7 +16,7 @@ Model public_tenants {
     definition: @sql {{ #SOURCE.id }};;
   }
   dimension name {
-    label: 'Nameeee'
+    label: 'Name'
     type: 'text'
     hidden: false
     definition: @sql {{ #SOURCE.name }};;
